@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/
+outputs/
+*.npz
+*.npy
+*.dat
+*.hea
+*.atr
+__fae_cache__/

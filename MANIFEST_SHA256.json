@@ -1,0 +1,22 @@
+{
+  ".gitignore": "d1b0d89812af5e4bb30ccdfbf39ee23611f6baca4003da9349ab66847f5e6bfc",
+  "README.md": "25055ed7c90cedab214e6b083668e438b6570efcee49c783b2683a27ac282c97",
+  "使用说明_中文.md": "e57eb40160b7db316e48e6a12b3aaeeb0c873c375b2c225a43eb7a8b379af0d6",
+  "DATA_AND_PROTOCOLS.md": "49b78e956bf7a9406e840e573a6fef70d16eab2f3cbe1ad27f3a0b085a5bb717",
+  "THIRD_PARTY_NOTICES.md": "b6b00eb56383ec6ec483e098ca797c7aecc6b21b2675b30e22a59e2dc7e00c74",
+  "VALIDATION.md": "e098901ad33b71252c1a4284e743b7791222108785f7d44c0f870ff259fc4136",
+  "requirements.txt": "2ce866854333264e5c08f8f2492cd41543e49819145b28513b96b03a2b60b20c",
+  "run.py": "cd7adb42e65b694de88c3e9f2bafb6a3a555db490eb1db825f3aab9663f55bd9",
+  "verify.py": "3dfe859b935ec3e595013648034b816ff3715cc3633bbcf1fd74d1cb3e9eea4a",
+  "provenance.json": "3bf37bddbd855d77b48b6e64ac0ece6546209b551c251777f1e62b88a52db199",
+  "configs/beat_paper.json": "f5f37ac5cf8fd770d9a47ee824b561b8018e1e5c811682b521ec9c471634dcc4",
+  "configs/patient_paper.json": "ff9ec8ea446b06d045794e512a542e6313ce784b27908f50beb1e701a7a55287",
+  "core/beat_engine.py": "45da5d1316c4de9d3ae21681adc132078fa3f268f9e6de6f020ebab7c348f5c6",
+  "core/patient_engine.py": "ee6ef4684d6956ac1f1b37a2fbde49d687f4411069bbcffa24799346bb4effe4",
+  "core/beat_optimizer.py": "ff98df4edb757959f822da3be65a26483a5faf11e06c569b560b044e87ecff7e",
+  "core/patient_optimizer.py": "1033be76ec61a8e1fa8a0dddd2e2585e772a011456da94f8d957f9f265499b27",
+  "core/bls_classifier.py": "c61cacc72e426e2cabd2b2583c1792305ce478a00d962edd513175d027e555e3",
+  "core/fractional_attention_entropy.py": "fa6f3451b0821e4547507a6f865c7183170c25f38cc8a1209386b59e180f0bc0",
+  "core/mitbih_raw_loader.py": "b79e09b99e92aa7cb16cea73b3276427e91020a0d0496a063727319d276e28ea",
+  "core/robust_io.py": "956f92b0dacf21beb8fe1f3bfbf196c417c3cf7274a9eba3407cf9385df5bbc3"
+}
