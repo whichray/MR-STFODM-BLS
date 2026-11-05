@@ -1,5 +1,5 @@
 {
-  "scope": "Core MR-STFODM-BLS release, not the complete experiment archive",
+  "scope": "MR-STFODM–BLS core pipeline",
   "sources": {
     "beat": {
       "source_collection": "实验四-心拍级/1-主实验/代码",
@@ -58,7 +58,7 @@
         "EvaluationBudgetExceeded": "e030e80403dd3ad2048fc1e2470856cc97efd98b1022dceeb0e65ef15ee2b44a",
         "FO_Direction_CEO_STAGNATION_REFINE": "8e93fbf7cd394c0ffb413a738f9fa37cb0055382db24e5a6518b5fd4975390be"
       },
-      "parameter_source": "Recorded effective configuration; IO/cache verbosity adapted only"
+      "parameter_source": "Recorded parameters; IO/cache settings adapted."
     },
     "patient": {
       "source_collection": "实验五-患者级/1-主实验/代码",
@@ -131,7 +131,7 @@
         "EvaluationBudgetExceeded": "e030e80403dd3ad2048fc1e2470856cc97efd98b1022dceeb0e65ef15ee2b44a",
         "FO_Direction_CEO_STAGNATION_REFINE": "4dcd3047b5cc11e82022fb1ae76ab25b690fec25aae437a7477af283318af4c7"
       },
-      "parameter_source": "Recorded effective configuration; IO/cache verbosity adapted only"
+      "parameter_source": "Recorded parameters; IO/cache settings adapted."
     }
   },
   "unchanged_dependencies_sha256": {
@@ -140,5 +140,5 @@
     "mitbih_raw_loader.py": "b79e09b99e92aa7cb16cea73b3276427e91020a0d0496a063727319d276e28ea",
     "robust_io.py": "956f92b0dacf21beb8fe1f3bfbf196c417c3cf7274a9eba3407cf9385df5bbc3"
   },
-  "historical_limit": "The patient runner in the organized collection differs from the historical runner hash. This release preserves selected current function bodies; it is not a byte-identical historical archive. Main-experiment HFAE preprocessing is retained; foldwise-v2 HFAE control experiments are not included."
+  "historical_limit": "Patient runner: current organized source. HFAE: main-experiment preprocessing."
 }
